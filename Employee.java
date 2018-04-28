@@ -40,8 +40,8 @@ public class Employee {
 
     public void printingo() {
 		System.out.println("first name is : " + firstName);
-		//System.out.println("last name is : " + ln);
-		//System.out.println("salary is : " + sal);
-		//System.out.println("id is : " + II);
+		System.out.println("last name is : " + ln);
+		System.out.println("salary is : " + sal);
+		System.out.println("id is : " + II);
     }
 }
